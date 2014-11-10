@@ -1,0 +1,17 @@
+{
+  "name": "AngularSolution",
+  "version": "1.0.0",
+  "description": "For Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Gonzalez",
+  "license": "GPL",
+  "devDependencies": {
+    "bower-copy": "^0.1.0",
+    "grunt": "^0.4.5",
+    "grunt-bowercopy": "^1.1.0",
+    "grunt-contrib-copy": "^0.7.0"
+  }
+}

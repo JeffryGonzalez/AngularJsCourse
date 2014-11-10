@@ -1,0 +1,21 @@
+{
+  "name": "AngularSolution",
+  "version": "0.0.0",
+  "authors": [
+    "Jeffry Gonzalez <jeff@hypertheory.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-full": "~1.3.2",
+    "angular-ui-bootstrap": "~0.11.2",
+    "angular-ui-router": "~0.2.11",
+    "bootstrap": "~3.3.0"
+  }
+}
