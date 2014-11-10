@@ -10,10 +10,8 @@ namespace AngularJsApplications.Controllers
 	{
 		public ActionResult Index()
 		{
-
 			return View();
 		}
-
 
 	}
 }
